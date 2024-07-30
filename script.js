@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', () => {
       if (selectedStar === 'st1' || selectedStar === 'st2' || selectedStar === 'st3') {
         window.location.href = 'feedback.html';
       } else if (selectedStar === 'st4' || selectedStar === 'st5') {
-        window.location.href = 'https://kyson.sg';
+        window.location.href = 'https://g.page/r/CSBDce4Rxoo9EBE/review';
       }
     });
   });
